@@ -1,0 +1,4 @@
+repository "PingPong/PingPong@11270436134410@cloud"
+  path "/"
+    br "/main"
+    co "/main"
